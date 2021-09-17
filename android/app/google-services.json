@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873685087276",
+    "project_id": "fistapk-cozy",
+    "storage_bucket": "fistapk-cozy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873685087276:android:5ddf4106efcf9f34584d89",
+        "android_client_info": {
+          "package_name": "com.example.cozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873685087276-3s73nvei3kl8c9a5ktrl4nr496iu0qaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00cKPvjLJanqIl5iehkY8wwhZkKqFjQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873685087276-3s73nvei3kl8c9a5ktrl4nr496iu0qaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
